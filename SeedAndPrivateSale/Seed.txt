@@ -1,0 +1,1 @@
+For the seed round, we will send email notification directly without publishing the address.
